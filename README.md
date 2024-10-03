@@ -4,9 +4,10 @@
  ChatGPTのAPI（OpenAI API）を活用した、簡単なチャットボットアプリのソースコードです。  
  会社内で使用する、社内規則の問い合わせ対応ボットを想定しています。  
  見た目なども含めて、自分なりにカスタマイズしてみてくださいね！  
+ 勉強会ではこれと同等のものを、ChatGPTの力を借りながらライブコーディングしてみます。  
 
 ### 使用技術
- HTTP通信 : FastAPI  
+ Webフレームワーク : FastAPI  
  フロントエンド : React  
- CSS : Tailwind  
+ CSSフレームワーク : Tailwind  
  API : OpenAI API  
