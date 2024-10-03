@@ -6,7 +6,7 @@
  見た目なども含めて、自分なりにカスタマイズしてみてくださいね！
 
 ### 使用技術
-| HTTP通信 | FastAPI |
-| フロントエンド | React |
-| CSS | Tailwind |
-| API | OpenAI API |
+ HTTP通信 : FastAPI
+ フロントエンド : React
+ CSS : Tailwind
+ API : OpenAI API
